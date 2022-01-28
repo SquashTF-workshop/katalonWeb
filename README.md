@@ -2,6 +2,7 @@ Tests sur interface Web avec Katalon.
 
 Structure du projet:
 
+```
 Everything (TestSuite Collection)
 |
 |-NoParam (TestSuite)
@@ -17,7 +18,8 @@ Everything (TestSuite Collection)
   |-SKFPremium (TestCase)
   |
   |-ExistingParameter (TestCase)
-  
+```
+
 Liste des paramètres (community):
 
 DSNAME : Logging
