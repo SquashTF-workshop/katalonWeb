@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>IterationData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b5db80c-05b1-4bc0-acba-d33ed1fbf4af</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>467673c0-fb2b-4499-abdc-508f42bafc39</id>
+      <masked>false</masked>
+      <name>pluginName</name>
+   </variable>
+</TestCaseEntity>
